@@ -10,7 +10,6 @@ repositories {
 }
 
 dependencies {
-    testImplementation ("testImplementation 'junit:junit:4.13'")
     testImplementation("junit:junit:4.13.1")
 }
 
